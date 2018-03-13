@@ -1,3 +1,7 @@
 name: Build Brotli - Mac
 commands:
 - perl build.pl
+artifacts:
+  myArtifact:
+  - **/abc
+
