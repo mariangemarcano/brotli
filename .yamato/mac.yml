@@ -3,5 +3,6 @@ commands:
 - perl build.pl
 artifacts:
   brotli-egg:
-    paths: "Brotli.egg-info"
+    paths: 
+      - "Brotli.egg-info"
 
