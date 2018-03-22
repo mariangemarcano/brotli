@@ -2,7 +2,7 @@ name: Build Brotli - Mac
 commands:
 - perl build.pl
 artifacts:
-  brotli-egg:
+  artifacts2:
     paths: 
       - "Brotli.egg-info"
 
