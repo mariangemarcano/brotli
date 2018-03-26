@@ -1,6 +1,6 @@
 name: Build Brotli - Mac
 commands:
-- sleep 100
+- sleep 1
 - perl build.pl
 artifacts:
   artifacts2:
