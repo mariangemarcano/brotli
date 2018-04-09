@@ -3,7 +3,7 @@ commands:
 - sleep 1
 - perl build.pl
 artifacts:
-  artifacts2:
+  artifacts:
     paths: 
       - "Brotli.egg-info"
 
